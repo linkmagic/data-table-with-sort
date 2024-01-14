@@ -1,0 +1,52 @@
+[
+  {
+    "name": "picture.bmp",
+    "owner": "Admin",
+    "dateCreate": "2023-12-25",
+    "dateChange": "2023-12-26",
+    "rights": "rwd",
+    "moreData": {
+      "size": "356kb",
+      "kind": "3rd party formats",
+      "where": "/Users/Admin/pictures"
+    }
+  },
+  {
+    "name": "Doc1.docx",
+    "owner": "User 1",
+    "dateCreate": "2023-10-15",
+    "dateChange": "2023-11-05",
+    "rights": "r"
+  },
+  {
+    "name": "User_Manual_Boneco.pdf",
+    "owner": "asterix",
+    "dateCreate": "2023-05-05",
+    "dateChange": "2023-07-10",
+    "rights": "rwd"
+  },
+  {
+    "name": "picture123.bmp",
+    "owner": "Olexii",
+    "dateCreate": "2022-06-17",
+    "dateChange": "2022-12-26",
+    "rights": "rwd",
+    "moreData": {
+      "size": "936kb",
+      "kind": "3rd party formats",
+      "where": "/Users/Olexii/pictures"
+    }
+  },
+  {
+    "name": "Salary.xlsx",
+    "owner": "Somebody",
+    "dateCreate": "2021-11-06",
+    "dateChange": "2022-10-11",
+    "rights": "rw",
+    "moreData": {
+      "size": "1.2mb",
+      "kind": "MS Office document",
+      "where": "/Users/Somebody/doc"
+    }
+  }
+]

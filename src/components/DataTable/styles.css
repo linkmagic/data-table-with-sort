@@ -1,0 +1,39 @@
+.dataTable {
+  border-collapse: collapse;
+}
+
+.dataTable .headerCell {
+  background-color: gainsboro;
+  border: 1px solid gray;
+  padding: 4px;
+}
+
+.dataTable .dataCell {
+  border: 1px solid gray;
+  padding: 4px 8px;
+}
+
+.dataTable .dataCell.zebraCell {
+  background-color: #f0f0f0;
+  padding: 4px 8px;
+}
+
+/* .dataTable tr:hover {
+  background-color: antiquewhite;
+} */
+
+.dataTable .sorterButton {
+  color: #a3a3a3;
+  border: 1px solid #a3a3a3;
+  border-radius: 4px;
+  margin: 0 0 0 8px;
+}
+
+.dataTable .sorterButton.active {
+  color: #000;
+  border: 1px solid #000;
+}
+
+.dataTable .nowrapContent {
+  text-wrap: nowrap;
+}
